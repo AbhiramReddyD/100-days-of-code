@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-## Contents
+## Checkout my Progress Log: [here](https://github.com/AbhiramReddyD/100-Days-of-Code/blob/master/ProgressLog.md)
 
 ### If you've decided to join:
 
