@@ -496,3 +496,9 @@ enough re-inventing the wheel over and over again in different languages.
 **Thoughts:** Four stars in solving problems in C only one more to go for gold.
 
 **Link to work:** [My Hackerrank Profile](https://www.hackerrank.com/abhiramreddy)
+
+### Day 62: January 24, 2020
+
+**Today's Progress**: Completed revising lesson 2 in  Intel Edge AI Foundation Course
+
+**Thoughts:** Revsied everything and redo all the exercises in lesson 2 downloading relevant models.
