@@ -502,3 +502,5 @@ enough re-inventing the wheel over and over again in different languages.
 **Today's Progress**: Completed revising lesson 2 in  Intel Edge AI Foundation Course
 
 **Thoughts:** Revsied everything and redo all the exercises in lesson 2 downloading relevant models.
+
+**NAfter this, I continued to learn and code every day but I felt the last few days of the challenge were not as effective as the first 50 days, hence I decided to take a break and reflect on what I've learned. Now a lot has happened, exams holidays, hackathons and many other things and I was waiting for a convenient time to continue the challenge. Now [24-03-2020] the world is fighting with Corona and I will be staying at home in quarantine for a while hence I decided to continue the challenge to code and learn every day. #100DaysOfCode.**
