@@ -505,7 +505,7 @@ enough re-inventing the wheel over and over again in different languages.
 
 **After this, I continued to learn and code every day but I felt the last few days of the challenge were not as effective as the first 50 days, hence I decided to take a break and reflect on what I've learned. Now a lot has happened, exams holidays, hackathons and many other things and I was waiting for a convenient time to continue the challenge. Now [24-03-2020] the world is fighting with Corona and I will be staying at home in quarantine for a while hence I decided to continue the challenge to code and learn every day. #100DaysOfCode.**
 
-### Day 63: March 23, 2020
+### Day 63: March 24, 2020
 
 **Today's Progress**: Completed revising the basics of C and C++
 
@@ -513,7 +513,7 @@ enough re-inventing the wheel over and over again in different languages.
 
 **Link to work:** [C/C++ Baisc Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
 
-### Day 63: March 24, 2020
+### Day 63: March 25, 2020
 
 **Today's Progress**: Introduction to Data Structures
 
