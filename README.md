@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAbhiramReddyD%2F100-Days-of-Code)
+
 ## Checkout my Progress Log: [here](https://github.com/AbhiramReddyD/100-Days-of-Code/blob/master/ProgressLog.md)
 
 ### If you've decided to join:
