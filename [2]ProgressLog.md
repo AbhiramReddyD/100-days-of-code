@@ -14,6 +14,6 @@
 
 **Today's Progress**: Recursion types
 
-**Thoughts:** Learned about types of recursion and recusrion tree concepts.
+**Thoughts:** Learned about types of recursion and recursion tree concepts.
 
 **Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
