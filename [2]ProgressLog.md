@@ -8,7 +8,7 @@
 
 **Thoughts:** Learned about abstraction, time complexities and recursion concepts.
 
-**Link to work:** [C/C++ Baisc Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
 
 ### Day 02: March 28, 2020
 
@@ -16,4 +16,4 @@
 
 **Thoughts:** Learned about types of recursion and recusrion tree concepts.
 
-**Link to work:** [C/C++ Baisc Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
