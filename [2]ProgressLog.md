@@ -17,3 +17,11 @@
 **Thoughts:** Learned about types of recursion and recursion tree concepts.
 
 **Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+
+### Day 03: March 29, 2020
+
+**Today's Progress**: Practise Recursion and Android Basics
+
+**Thoughts:** Learned about Nested Recursion and started learning Android basics Nanodegree.
+
+**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
