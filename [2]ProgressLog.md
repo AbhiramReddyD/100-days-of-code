@@ -25,3 +25,11 @@
 **Thoughts:** Learned about Nested Recursion and started learning Android basics Nanodegree.
 
 **Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+
+### Day 04: March 30, 2020
+
+**Today's Progress**: Learned and implemented different methods 
+
+**Thoughts:** Learned Taylor series, Horners rule,vFibonacci, Combinations using recusrison and loops. 
+
+**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
