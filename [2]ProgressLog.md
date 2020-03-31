@@ -30,6 +30,14 @@
 
 **Today's Progress**: Learned and implemented different methods 
 
-**Thoughts:** Learned Taylor series, Horners rule,vFibonacci, Combinations using recusrison and loops. 
+**Thoughts:** Learned Taylor series, Horner's rule, Fibonacci, Combinations using recusrison and loops. 
+
+**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+
+### Day 05: March 31, 2020
+
+**Today's Progress**: Solving problems on recursion
+
+**Thoughts:** Solving Tower of Hanoi and other problems using recursion.
 
 **Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
