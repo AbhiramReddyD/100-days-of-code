@@ -8,7 +8,7 @@
 
 **Thoughts:** Learned about abstraction, time complexities and recursion concepts.
 
-**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
 ### Day 02: March 28, 2020
 
@@ -16,7 +16,7 @@
 
 **Thoughts:** Learned about types of recursion and recursion tree concepts.
 
-**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
 ### Day 03: March 29, 2020
 
@@ -24,7 +24,7 @@
 
 **Thoughts:** Learned about Nested Recursion and started learning Android basics Nanodegree.
 
-**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
 ### Day 04: March 30, 2020
 
@@ -32,7 +32,7 @@
 
 **Thoughts:** Learned Taylor series, Horner's rule, Fibonacci, Combinations using recusrison and loops. 
 
-**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
 ### Day 05: March 31, 2020
 
@@ -40,4 +40,13 @@
 
 **Thoughts:** Solving Tower of Hanoi and other problems using recursion.
 
-**Link to work:** [C/C++ Basic Concepts Codes](https://github.com/AbhiramReddyD/AlgoDS/tree/master/C%20C%2B%2B%20Basics)
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 06: April 01, 2020
+
+**Today's Progress**: 2D Arrays 
+
+**Thoughts:** Learned about initialization and complete working 2D and ND arrays and how the compiler handles them.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
