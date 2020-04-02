@@ -50,3 +50,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 07: April 02, 2020
+
+**Today's Progress**: Arrays as ADT
+
+**Thoughts:** Learning Arrays as Abstract Data Type, insertion,delete, linear and binary searches.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
