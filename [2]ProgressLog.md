@@ -58,3 +58,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 08: April 04, 2020
+
+**Today's Progress**: Binary search analysis and Hackerank
+
+**Thoughts:** Analysis on Binary and Linear search on array, get, set, max and other operations and solving problems in Hackerrank
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
