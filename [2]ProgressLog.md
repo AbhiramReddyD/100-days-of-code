@@ -68,3 +68,14 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 09: April 05, 2020
+
+**Today's Progress**: Merging and reversing arrays
+
+**Thoughts:** Merging two arrays, reversing and solving problems on Hackerrank
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+
+
+
