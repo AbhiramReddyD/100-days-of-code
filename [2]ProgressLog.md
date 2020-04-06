@@ -76,6 +76,14 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 10: April 06, 2020
+
+**Today's Progress**: Set operations on Array
+
+**Thoughts:** Learned Union, Intersection and Difference operations on an array.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
 
 
 
