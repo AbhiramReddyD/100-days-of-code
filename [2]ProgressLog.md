@@ -96,7 +96,7 @@
 
 **Today's Progress**: Covert C to C++
 
-**Thoughts:** Comvert all operations(read, append, insert, delete, search and other operations) program from C to C++ and solve problem in HackerRank.
+**Thoughts:** Convert all operations(read, append, insert, delete, search and other operations) program from C to C++ and solving problems in HackerRank.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
