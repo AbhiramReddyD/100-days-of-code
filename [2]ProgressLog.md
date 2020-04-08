@@ -84,6 +84,19 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
-### Day 10: April 06, 2020
+### Day 11: April 07, 2020
 
+**Today's Progress**: All operations on Arrays
+
+**Thoughts:** Program to read, append, insert, delete, search and other operations on an array in C.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 12: April 08, 2020
+
+**Today's Progress**: Covert C to C++
+
+**Thoughts:** Comvert all operations(read, append, insert, delete, search and other operations) program from C to C++ and solve problem in HackerRank.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
