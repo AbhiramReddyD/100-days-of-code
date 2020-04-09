@@ -100,3 +100,10 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 13: April 09, 2020
+
+**Today's Progress**: Articles, Nanodegree, Online sessions 
+
+**Thoughts:** Wrting and article on Callbacks in JS, working on Android Nanodegree and winding up Arrays as ADT(Abstract Data Types)
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
