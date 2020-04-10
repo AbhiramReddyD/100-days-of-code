@@ -107,3 +107,11 @@
 **Thoughts:** Wrting and article on Callbacks in JS, working on Android Nanodegree and winding up Arrays as ADT(Abstract Data Types)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 14: April 10, 2020
+
+**Today's Progress**: Solving problems,
+
+**Thoughts:** wrote Programs to find missing elements in both sorted/unsorted arrays, made a single screen app(Android Nanodegree)
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
