@@ -115,3 +115,11 @@
 **Thoughts:** wrote Programs to find missing elements in both sorted/unsorted arrays, made a single screen app(Android Nanodegree)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 15: April 11, 2020
+
+**Today's Progress**: Array ADT Completed !!
+
+**Thoughts:** Finally completed Array as Abstract Data Type with practice exercises completed next up strings.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
