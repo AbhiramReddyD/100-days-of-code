@@ -123,3 +123,11 @@
 **Thoughts:** Finally completed Array as Abstract Data Type with practice exercises completed next up strings.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 16: April 12, 2020
+
+**Today's Progress**: Started learning Strings
+
+**Thoughts:** Introduction to char, string, ascii, string length and validation.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
