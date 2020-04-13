@@ -131,3 +131,11 @@
 **Thoughts:** Introduction to char, string, ascii, string length and validation.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 17: April 13, 2020
+
+**Today's Progress**: Strings Day 2 simple manipulation
+
+**Thoughts:** Coded string duplicates count, palindrome, compare, reverse.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
