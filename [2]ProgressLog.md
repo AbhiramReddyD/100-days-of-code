@@ -152,6 +152,6 @@
 
 **Today's Progress**: Completed Strings next up Matrices in C
 
-**Thoughts:** Bitwise operators to find duplicaates in strings and permuation of strings using recursion and swapping. 
+**Thoughts:** Bitwise operators to find duplicates in strings and permutation of strings using recursion and swapping.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
