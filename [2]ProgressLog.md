@@ -147,3 +147,11 @@
 **Thoughts:** Completed and article on Callbacks in JavaScript and programs in strings on anagrams and duplicates.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 19: April 16, 2020
+
+**Today's Progress**: Completed Strings next up Matrices in C
+
+**Thoughts:** Bitwise operators to find duplicaates in strings and permuation of strings using recursion and swapping. 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
