@@ -155,3 +155,12 @@
 **Thoughts:** Bitwise operators to find duplicates in strings and permutation of strings using recursion and swapping.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 20: April 17, 2020
+
+**Today's Progress**: Started Matrices
+
+**Thoughts:** Matrices in C and doagonal matrix in c and cpp using oops concept.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
