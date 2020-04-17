@@ -160,7 +160,7 @@
 
 **Today's Progress**: Started Matrices
 
-**Thoughts:** Matrices in C and doagonal matrix in c and cpp using oops concept.
+**Thoughts:** Matrices in C and diagonal matrix in c and CPP using oops concept.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
