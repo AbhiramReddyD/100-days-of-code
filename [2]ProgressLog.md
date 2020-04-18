@@ -164,3 +164,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 21: April 18, 2020
+
+**Today's Progress**: Matrices Day 2
+
+**Thoughts:** Diagonal matrix, symmetric matrix, upper and lower triangular matrices with row and cloumn major.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
