@@ -2,7 +2,7 @@
 
 ### Round 2
 
-### Present Objective Algorithms and Data Structures
+### Objective : Algorithms and Data Structures in C, C++
 
 ### Day 01: March 27, 2020
 
@@ -176,7 +176,7 @@
 
 **Today's Progress**: Matrices Day 3
 
-**Thoughts:** Tri-diagonal, square band matrix and toploitz matrix. Menu driven code for all operations on a diagonal matrix code in C and C++. 
+**Thoughts:** Tri-diagonal, square band matrix and Toeplitz  matrix. Menu driven code for all operations on a diagonal matrix code in C and C++. 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
