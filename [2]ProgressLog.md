@@ -172,3 +172,13 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 22: April 19, 2020
+
+**Today's Progress**: Matrices Day 3
+
+**Thoughts:** Tri-diagonal, square band matrix and toploitz matrix. Menu driven code for all operations on a diagonal matrix code in C and C++. 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+
+
