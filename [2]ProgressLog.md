@@ -180,5 +180,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 23: April 20, 2020
 
+**Today's Progress**: Android, Matrices, Blog
+
+**Thoughts:** today learned sparse matrix, working on my android nanodegree and writing an article on structures in C++.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
