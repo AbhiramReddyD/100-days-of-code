@@ -198,7 +198,7 @@
 
 **Today's Progress**: Nanodegree Graduation
 
-**Thoughts:** today I finailized all my project submissions and graduated sucessfull, Android devloper basics Nanodegree from Google at Udacity.
+**Thoughts:** Today I finalized all my project submissions and graduated successfully, Android developer basics Nanodegree from Google at Udacity.
 
 
 
