@@ -188,3 +188,17 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 24: April 21, 2020
+
+**Today's Progress**: Android Nanodegree.
+
+**Thoughts:** Working on my final Android project for Nanodegree.
+
+### Day 25: April 22, 2020
+
+**Today's Progress**: Nanodegree Graduation
+
+**Thoughts:** today I finailized all my project submissions and graduated sucessfull, Android devloper basics Nanodegree from Google at Udacity.
+
+
+
