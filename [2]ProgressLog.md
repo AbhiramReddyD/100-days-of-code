@@ -200,5 +200,12 @@
 
 **Thoughts:** Today I finalized all my project submissions and graduated successfully, Android developer basics Nanodegree from Google at Udacity.
 
+### Day 26: April 23, 2020
+
+**Today's Progress**: Completed Matrices and Polynomial.
+
+**Thoughts:** Learned & coded polynomial representation, evaluation and addition, with this completed Matrices also.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
 
