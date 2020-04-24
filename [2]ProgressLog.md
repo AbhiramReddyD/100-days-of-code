@@ -208,4 +208,9 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 27: April 24, 2020
+
+**Today's Progress**: Completed all basics next up Data Structures.
+
+**Thoughts:** From Day 1 I have completed learning, arrays, structures, recursion, functions, pointers, strings and matrices now I'm planning to spend atleast the next ten days in revising each concept and solve some coding problems on that topic before learning Data Structures.
 
