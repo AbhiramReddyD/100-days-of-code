@@ -214,3 +214,8 @@
 
 **Thoughts:** From Day 1 I have completed learning, arrays, structures, recursion, functions, pointers, strings and matrices now I'm planning to spend atleast the next ten days in revising each concept and solve some coding problems on that topic before learning Data Structures.
 
+### Day 28: April 25, 2020
+
+**Today's Progress**: Revision Day 1
+
+**Thoughts:** Today I revised concepts and solved problems on functions and structures.
