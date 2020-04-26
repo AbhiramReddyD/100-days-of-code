@@ -224,4 +224,4 @@
 
 **Today's Progress**: Revision Day 2
 
-**Thoughts:** Today I revised concepts of recursion and types of recusrion like nested, tree, static, indirect recursion.
+**Thoughts:** Today I revised concepts of recursion and types of recursion like nested, tree, static, indirect recursion.
