@@ -219,3 +219,9 @@
 **Today's Progress**: Revision Day 1
 
 **Thoughts:** Today I revised concepts and solved problems on functions and structures.
+
+### Day 29: April 26, 2020
+
+**Today's Progress**: Revision Day 2
+
+**Thoughts:** Today I revised concepts of recursion and types of recusrion like nested, tree, static, indirect recursion.
