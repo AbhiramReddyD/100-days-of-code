@@ -232,6 +232,6 @@
 
 **Thoughts:** Today I published an article on callbacks in javascript at opengenus.
 
-**Link to work:** [Callbacks in JS](https://iq%3Cli%3Eopengenus%3Cli%3Eorg/callbacks-in-javascript/)
+**Link to work:** [Callbacks in JS](https://iq.opengenus.org/callbacks-in-javascript/)
 
 
