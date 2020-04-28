@@ -225,3 +225,13 @@
 **Today's Progress**: Revision Day 2
 
 **Thoughts:** Today I revised concepts of recursion and types of recursion like nested, tree, static, indirect recursion.
+
+### Day 30: April 28, 2020
+
+**Today's Progress**: Published an article.
+
+**Thoughts:** Today I published an article on callbacks in javascript at opengenus.
+
+**Link to work:** [Callbacks in JS](https://iq%3Cli%3Eopengenus%3Cli%3Eorg/callbacks-in-javascript/)
+
+
