@@ -234,4 +234,12 @@
 
 **Link to work:** [Callbacks in JS](https://iq.opengenus.org/callbacks-in-javascript/)
 
+### Day 31: April 29-30, 2020
+
+**Today's Progress**: Set up my blog.
+
+**Thoughts:** Finally, Set up my blog using ghost and it's awesome.
+
+**Link to work:** [My Blog](https://abhiramreddyd.github.io/blog/)
+
 
