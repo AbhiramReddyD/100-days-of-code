@@ -242,4 +242,10 @@
 
 **Link to work:** [My Blog](https://abhiramreddyd.github.io/blog/)
 
+### Day 32: May 01, 2020
 
+**Today's Progress**: Revised matrices
+
+**Thoughts:** Today revised matrices concepts diagonal, sparse, polynomial and triangular matrices.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
