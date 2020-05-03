@@ -249,3 +249,20 @@
 **Thoughts:** Today revised matrices concepts diagonal, sparse, polynomial and triangular matrices.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 33: May 02, 2020
+
+**Today's Progress**: Revised arrays
+
+**Thoughts:** Today I revised arrays and basic operation like search, insert,delete, append.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 34: May 03, 2020
+
+**Today's Progress**: Completed Revision next up Linked Lists
+
+**Thoughts:** Today complted revision of Arrays and operations like duplicates, using hash table etc.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
