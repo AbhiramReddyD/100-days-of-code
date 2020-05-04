@@ -262,7 +262,14 @@
 
 **Today's Progress**: Completed Revision next up Linked Lists
 
-**Thoughts:** Today complted revision of Arrays and operations like duplicates, using hash table etc.
+**Thoughts:** Today completed revision of Arrays and operations like duplicates, using hash table etc.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
 
+### Day 35: May 04, 2020
+
+**Today's Progress**: Solving problems on leetcode
+
+**Thoughts:** Today I learned how to use bitwise operators to perform binary opearations.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
