@@ -280,4 +280,4 @@
 
 **Thoughts:** Today I learned the basic concepts and how to create a linked list.
 
-**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
