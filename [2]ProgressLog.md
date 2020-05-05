@@ -273,3 +273,11 @@
 **Thoughts:** Today I learned how to use bitwise operators to perform binary opearations.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
+
+### Day 36: May 05, 2020
+
+**Today's Progress**: Introduction to Linked Lists
+
+**Thoughts:** Today I learned the basic concepts and how to create a linked list.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/AlgoDS)
