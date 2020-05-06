@@ -281,3 +281,11 @@
 **Thoughts:** Today I learned the basic concepts and how to create a linked list.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 37: May 06, 2020
+
+**Today's Progress**: Linked Lists Day 2
+
+**Thoughts:** Today I learned traversing and operations like no.of elements and sum of elements in Linked Lists.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
