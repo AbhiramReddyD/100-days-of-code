@@ -297,3 +297,12 @@
 **Thoughts:** Today I learned finding min, max and linear search in a linked list.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 39: May 10, 2020
+
+**Today's Progress**: Linked Lists Day 4
+
+**Thoughts:** Today I learned insertion in linked list also in sorted list and creating new list using insertion.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
