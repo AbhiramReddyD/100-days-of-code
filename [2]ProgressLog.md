@@ -306,3 +306,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 40: May 12, 2020
+
+**Today's Progress**: Linked Lists Day 5
+
+**Thoughts:** Today I learned deletion in linked list also check if a list is sorted or not.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
