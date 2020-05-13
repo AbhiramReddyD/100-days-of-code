@@ -314,3 +314,13 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 41: May 13, 2020
+
+**Today's Progress**: Linked Lists Day 6
+
+**Thoughts:** Today I learned removing duplicates in a sorted list and reversing a linked list.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+
+
