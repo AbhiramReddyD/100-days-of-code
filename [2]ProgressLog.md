@@ -326,7 +326,7 @@
 
 **Today's Progress**: Linked Lists Day 7
 
-**Thoughts:** Today I learned concatinating, mereging of two linked lists and check if a list conatins a loop.
+**Thoughts:** Today I learned to concatenate, merging of two linked lists and check if a list contains a loop.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
