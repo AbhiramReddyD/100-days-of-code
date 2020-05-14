@@ -322,5 +322,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 42: May 14, 2020
 
+**Today's Progress**: Linked Lists Day 7
+
+**Thoughts:** Today I learned concatinating, mereging of two linked lists and check if a list conatins a loop.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
