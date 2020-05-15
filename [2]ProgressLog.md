@@ -330,3 +330,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 43: May 15 2020
+
+**Today's Progress**: Linked Lists Day 8
+
+**Thoughts:** Today I wrote a CPP program to perform all operations on a list like create, insert, delete, find length.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
