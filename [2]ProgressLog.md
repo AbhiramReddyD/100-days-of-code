@@ -330,7 +330,7 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
-### Day 43: May 15 2020
+### Day 43: May 15, 2020
 
 **Today's Progress**: Linked Lists Day 8
 
@@ -338,10 +338,18 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
-### Day 44: May 21 2020
+### Day 44: May 21, 2020
 
 **Today's Progress**: Linked Lists Day 9
 
 **Thoughts:** Today I learned about circular linked list and how to display a circular linked list.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 45: May 22, 2020
+
+**Today's Progress**: Linked Lists Day 10
+
+**Thoughts:** Today I learned inserting and deleting from a circular linked list, next up doubly linked list.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
