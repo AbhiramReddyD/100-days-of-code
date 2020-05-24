@@ -361,3 +361,12 @@
 **Thoughts:** Today I learned about doubly linked list inserting and deleting from a doubly linked list.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 47: May 24, 2020
+
+**Today's Progress**: Linked Lists Day 12
+
+**Thoughts:** Today I learned about circular doubly linked list inserting and deleting from a circular doubly linked list.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
