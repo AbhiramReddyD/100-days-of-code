@@ -370,3 +370,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 48: May 25, 2020
+
+**Today's Progress**: Done with Linked Lists
+
+**Thoughts:** Today I compared different types of linked lists[Doubly winner] and array vs linked lists[Linked list Winner]
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
