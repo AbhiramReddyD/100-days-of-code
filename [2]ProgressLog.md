@@ -378,3 +378,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 49: May 26, 2020
+
+**Today's Progress**: Exercises
+
+**Thoughts:** Today I learned how to find the middle element of a linked list and intersetion points of two linked list.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
