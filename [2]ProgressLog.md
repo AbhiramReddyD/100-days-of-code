@@ -386,3 +386,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 50: June 07, 2020
+
+**Today's Progress**: Finished Linked Lists
+
+**Thoughts:** Today I learned how to evaluate a polynomial using linked list in C.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
