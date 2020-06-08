@@ -394,3 +394,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 51: June 08, 2020
+
+**Today's Progress**: Started learning Stack
+
+**Thoughts:** Today I learned how stack work and implemented it using array and structure and performed operations like push, pop, peek, isfull, is empty, top in C.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
