@@ -398,7 +398,15 @@
 
 **Today's Progress**: Started learning Stack
 
-**Thoughts:** Today I learned how stack work and implemented it using array and structure and performed operations like push, pop, peek, isfull, is empty, top in C.
+**Thoughts:** Today I learned how stack works and implemented it using array and structure and performed operations like push, pop, peek, isfull, is empty, top in C.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 52: June 09, 2020
+
+**Today's Progress**: Stack Day 2
+
+**Thoughts:** Today I learned how to implement stack using linked lsit and structure and performed operations like push, pop, peek, isfull, is empty, top in C and CPP.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
