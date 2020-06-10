@@ -404,9 +404,17 @@
 
 ### Day 52: June 09, 2020
 
-**Today's Progress**: Stack Day 2
+**Today's Progress**: Stack Day 02
 
 **Thoughts:** Today I learned how to implement stack using linked lsit and structure and performed operations like push, pop, peek, isfull, is empty, top in C and CPP.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 53: June 10, 2020
+
+**Today's Progress**: Stack Day 03
+
+**Thoughts:** Today I wrote a program to check matching brackets using stack in C.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
