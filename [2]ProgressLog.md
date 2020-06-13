@@ -418,3 +418,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 54: June 13, 2020
+
+**Today's Progress**: infix, prefix and postfix
+
+**Thoughts:** Today I learned about prefix, postfix, unary operators and associativity rules and infix to prefix and postfix conversion. 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
