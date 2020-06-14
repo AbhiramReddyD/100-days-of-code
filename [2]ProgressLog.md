@@ -428,7 +428,7 @@
 
 ### Day 55: June 14, 2020
 
-**Today's Progress**: postix evaluation
+**Today's Progress**: postfix evaluation
 
 **Thoughts:** Today I wrote a program to convert an infix expression to postfix using a stack and evaluate it and program to check whether the parenthesis is balanced or not using a stack.
 
