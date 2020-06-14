@@ -426,3 +426,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 55: June 14, 2020
+
+**Today's Progress**: postix evaluation
+
+**Thoughts:** Today I wrote a program to convert an infix expression to postfix using a stack and evaluate it and program to check whether the parenthesis is balanced or not using a stack.
+
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
