@@ -432,5 +432,12 @@
 
 **Thoughts:** Today I wrote a program to convert an infix expression to postfix using a stack and evaluate it and program to check whether the parenthesis is balanced or not using a stack.
 
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 56: June 15, 2020
+
+**Today's Progress**: Stack Over
+
+**Thoughts:** Finally finished learning the basic concepts of the stack and wrote a few practice programs next up queues.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
