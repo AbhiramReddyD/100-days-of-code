@@ -446,6 +446,6 @@
 
 **Today's Progress**: Started Queue
 
-**Thoughts:** Today I leanred how a queue work and implemented it in C language using array and pointers.
+**Thoughts:** Today I learned how a queue work and implemented it in C language using array and pointers.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
