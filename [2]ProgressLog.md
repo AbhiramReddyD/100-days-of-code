@@ -441,3 +441,11 @@
 **Thoughts:** Finally finished learning the basic concepts of the stack and wrote a few practice programs next up queues.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 57: June 16, 2020
+
+**Today's Progress**: Started Queue
+
+**Thoughts:** Today I leanred how a queue work and implemented it in C language using array and pointers.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
