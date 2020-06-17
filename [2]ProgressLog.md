@@ -449,3 +449,12 @@
 **Thoughts:** Today I learned how a queue work and implemented it in C language using array and pointers.
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 58: June 17, 2020
+
+**Today's Progress**: Circular Queue
+
+**Thoughts:** Today I wrote codes to implement queue in C++ and circular queue using array.
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
