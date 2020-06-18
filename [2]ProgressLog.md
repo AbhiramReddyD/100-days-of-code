@@ -458,3 +458,11 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 59: June 18, 2020
+
+**Today's Progress**: Published two articles !!
+
+**Thoughts:** I wrote and published two articles 1. [Template class in C++](https://iq.opengenus.org/template-class-in-cpp/) 2. [First Unique Character in a String](https://iq.opengenus.org/first-unique-character-in-string/) at #OpenGenus
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
