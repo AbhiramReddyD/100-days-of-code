@@ -466,3 +466,12 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+
+### Day 60: June 21, 2020
+
+**Today's Progress**: Circular Queue
+
+**Thoughts:** Today I learned about circular queue and wrote program for a queue in c++ and circular queue using an array and two pointers in C
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
