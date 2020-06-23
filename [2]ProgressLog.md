@@ -482,4 +482,10 @@
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 62: June 23, 2020
 
+**Today's Progress**: Started Tress
+
+**Thoughts:** Introduction to trees and binary trees, strict binary trees. 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
