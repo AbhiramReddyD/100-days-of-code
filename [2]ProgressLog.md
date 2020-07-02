@@ -496,7 +496,7 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Today's Progress**: Strict binary tress
 
-**Thoughts:** Learned about strict, complete trees and their comparisoion and how to store a tree using array and linked list. 
+**Thoughts:** Learned about strict, complete trees and their comparision and how to store a tree using array and linked list. 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
@@ -505,5 +505,5 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Today's Progress**: Tree traversal
 
 **Thoughts:** Learned about pre-order, in-order, post-order and level-order traversal in binary tress . 
-
+#100DaysOfCode 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
