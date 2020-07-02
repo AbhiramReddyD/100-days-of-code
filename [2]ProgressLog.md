@@ -489,3 +489,21 @@
 **Thoughts:** Introduction to trees and binary trees, strict binary trees. 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
+
+### Day 63: July 01, 2020
+
+**Today's Progress**: Strict binary tress
+
+**Thoughts:** Learned about strict, complete trees and their comparisoion and how to store a tree using array and linked list. 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 64: July 02, 2020
+
+**Today's Progress**: Tree traversal
+
+**Thoughts:** Learned about pre-order, in-order, post-order and level-order traversal in binary tress . 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
