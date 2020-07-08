@@ -539,3 +539,26 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 #100DaysOfCode 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 68: July 08, 2020
+
+**Today's Progress**: Binary Search Tree 
+
+**Thoughts:** Introduction and wrote a program to insert in a BST
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 69: July 09, 2020
+
+**Today's Progress**: Binary Search Tree 
+
+**Thoughts:** Performed insert (recursive and iterative) and delete operations in BST.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+
+
