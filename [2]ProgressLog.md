@@ -540,7 +540,7 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
-### Day 68: July 08, 2020
+### Day 68: July 07, 2020
 
 **Today's Progress**: Binary Search Tree 
 
@@ -550,7 +550,7 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
-### Day 69: July 09, 2020
+### Day 69: July 08, 2020
 
 **Today's Progress**: Binary Search Tree 
 
@@ -561,4 +561,13 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
 
+### Day 70: July 09, 2020
+
+**Today's Progress**: Binary Search Tree Finished
+
+**Thoughts:** Search operation in BST and construction using preorder traversals.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
