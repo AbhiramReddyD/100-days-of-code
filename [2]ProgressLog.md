@@ -571,3 +571,14 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 71: July 10, 2020
+
+**Today's Progress**: Finished AVL Trees
+
+**Thoughts:** Learned insertion, deletion and rotations in AVL trees, next up Heap.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+
