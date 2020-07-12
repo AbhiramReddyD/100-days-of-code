@@ -581,4 +581,23 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 71: July 11, 2020
+
+**Today's Progress**: Finished Heap
+
+**Thoughts:** Learned insertion and deletion in a Heap, maxHeap, minHeap.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 72: July 12, 2020
+
+**Today's Progress**: Started Hashing
+
+**Thoughts:** Introduction and learned basics of hashing today.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
