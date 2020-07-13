@@ -601,3 +601,12 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 72: July 13, 2020
+
+**Today's Progress**: Finished  Hashing & Notations
+
+**Thoughts:** Learned linear and quadratic probing and about Asymptotic notations, next up Sorting.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
