@@ -610,3 +610,13 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 #100DaysOfCode 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 73: July 14, 2020
+
+**Today's Progress**: Sorting Techniques
+
+**Thoughts:** Today I learned and coded programs for bubble sort and insertion sort. 
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
