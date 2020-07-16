@@ -630,3 +630,13 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 #100DaysOfCode 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 75: July 16, 2020
+
+**Today's Progress**: Quick sort
+
+**Thoughts:** Today I learned and coded program for quick sort. 
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
