@@ -640,3 +640,13 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 #100DaysOfCode 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 76: July 17, 2020
+
+**Today's Progress**: Responsive Web Designing
+
+**Thoughts:** Today I got my first certificate from FreeCodeCamp after building some awesome projects.
+
+#100DaysOfCode 
+
+**Link to work:** [Conquer FreeCodeCamp](https://github.com/AbhiramReddyD/ConquerFreeCodeCamp)
