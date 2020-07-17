@@ -650,3 +650,13 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 #100DaysOfCode 
 
 **Link to work:** [Conquer FreeCodeCamp](https://github.com/AbhiramReddyD/ConquerFreeCodeCamp)
+
+### Day 77: July 18, 2020
+
+**Today's Progress**: Merge sort
+
+**Thoughts:** Today I learned and coded program iterative and recursive Merge sort. 
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
