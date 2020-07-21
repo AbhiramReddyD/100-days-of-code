@@ -675,7 +675,7 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Today's Progress**: Finished Sorting
 
-**Thoughts:** Understood and wrote progrmas for Selection sort and radix sort. 
+**Thoughts:** Understood and wrote programs for Selection sort and radix sort. 
 
 #100DaysOfCode 
 
