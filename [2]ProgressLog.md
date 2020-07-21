@@ -670,3 +670,23 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 #100DaysOfCode 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 79: July 20, 2020
+
+**Today's Progress**: Finished Sorting
+
+**Thoughts:** Understood and wrote progrmas for Selection sort and radix sort. 
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 80: July 21, 2020
+
+**Today's Progress**: Started Graphs
+
+**Thoughts:** Introduction and basics of Graphs in programming.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
