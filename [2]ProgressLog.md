@@ -690,3 +690,13 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 #100DaysOfCode 
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
+### Day 81: July 22, 2020
+
+**Today's Progress**: Graphs
+
+**Thoughts:** Learned representation of Graphs and Breadth First Search in Graphs.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
