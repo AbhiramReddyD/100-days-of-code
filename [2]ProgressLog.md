@@ -711,3 +711,13 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+### Day 83: July 24, 2020
+
+**Today's Progress**: Done learning graphs
+
+**Thoughts:** Learned about spanning trees, Prim's and Kruskals algorithms today.
+
+#100DaysOfCode 
+
+**Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
+
