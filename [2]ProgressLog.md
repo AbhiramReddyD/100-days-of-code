@@ -721,6 +721,9 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Link to work:** [Algorithms and Data Structures in C/C++ Codes](https://github.com/AbhiramReddyD/Algorithm-DataStructures)
 
+## Finished Data Structures
+## Continuing learning Freecodecamp
+
 ### Day 84: July 25, 2020
 
 **Today's Progress**: Learning JavaScript
@@ -729,3 +732,10 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 #100DaysOfCode 
 
+### Day 85: July 26, 2020
+
+**Today's Progress**: Learning JavaScript
+
+**Thoughts:** Finished the ES6 JavaScript module of FreeCodeCamp, js is awesome.
+
+#100DaysOfCode 
