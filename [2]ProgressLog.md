@@ -739,3 +739,11 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Thoughts:** Finished the ES6 JavaScript module of FreeCodeCamp, js is awesome.
 
 #100DaysOfCode 
+
+### Day 86: July 27, 2020
+
+**Today's Progress**: Learning JavaScript
+
+**Thoughts:** Started learning Regular Expressions in JavaScript.
+
+#100DaysOfCode 
