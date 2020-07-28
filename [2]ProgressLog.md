@@ -747,3 +747,11 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Thoughts:** Started learning Regular Expressions in JavaScript.
 
 #100DaysOfCode 
+
+### Day 87: July 28, 2020
+
+**Today's Progress**: Learning JavaScript
+
+**Thoughts:** Finished learning Regex in JS, OMG! it's a bit tough to start but I think it will save a lot of time & loc.
+
+#100DaysOfCode 
