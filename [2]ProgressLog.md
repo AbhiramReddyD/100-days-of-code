@@ -755,3 +755,11 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Thoughts:** Finished learning Regex in JS, OMG! it's a bit tough to start but I think it will save a lot of time & loc.
 
 #100DaysOfCode 
+
+### Day 88: July 30, 2020
+
+**Today's Progress**: Learning JavaScript
+
+**Thoughts:** Finished learning how to debug my code, I feel this is very USEFUL.
+
+#100DaysOfCode 
