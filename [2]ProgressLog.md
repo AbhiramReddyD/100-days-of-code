@@ -763,3 +763,11 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Thoughts:** Finished learning how to debug my code, I feel this is very USEFUL.
 
 #100DaysOfCode 
+
+### Day 89: July 31, 2020
+
+**Today's Progress**: Learning JavaScript
+
+**Thoughts:** Started learning basic Data Structures and array operations in JavaScript.
+
+#100DaysOfCode 
