@@ -821,12 +821,3 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Thoughts:** I really want to try more of snipcart.js it makes the payment part very easy. check it out here https://farm-fresh-store.herokuapp.com/ 
 
 #100DaysOfCode
-
-### Day 95: Auguts 06, 2020
-
-**Today's Progress**: Heroku for Projects.
-
-**Thoughts:** I never it's this easy to bring our projects live using Heroku, can't wait to do more. 
-
-#100DaysOfCode
-
