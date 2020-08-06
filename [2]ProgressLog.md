@@ -770,4 +770,44 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Thoughts:** Started learning basic Data Structures and array operations in JavaScript.
 
+#100DaysOfCode
+
+### Day 90: Auguts 01, 2020
+
+**Today's Progress**: E-Commerce App
+
+**Thoughts:** Started working on a simple app, like a store to buy products etc.
+
 #100DaysOfCode 
+
+### Day 91: Auguts 02, 2020
+
+**Today's Progress**: E-Commerce App
+
+**Thoughts:** Working on the project, trying out Flotiq and Snipcart.js combination.
+
+#100DaysOfCode 
+
+### Day 92: Auguts 03, 2020
+
+**Today's Progress**: E-Commerce App
+
+**Thoughts:** Flotiq and Snipcart JS is awesome, adding more customization to my app. 
+
+#100DaysOfCode 
+
+### Day 93: Auguts 04, 2020
+
+**Today's Progress**: E-Commerce App
+
+**Thoughts:** Flotiq and Snipcart JS is awesome, adding more customization to my app using sass. 
+
+#100DaysOfCode
+
+### Day 94: Auguts 05, 2020
+
+**Today's Progress**: E-Commerce App is finally live.
+
+**Thoughts:** I really want to try more of snipcart.js it makes the payment part very easy. check it out here https://farm-fresh-store.herokuapp.com/ 
+
+#100DaysOfCode
