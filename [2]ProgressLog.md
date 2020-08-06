@@ -772,6 +772,8 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 #100DaysOfCode
 
+## Alright University asked me to submit a project suddenly within 5 days and I'm experimenting what to do now
+
 ### Day 90: Auguts 01, 2020
 
 **Today's Progress**: E-Commerce App
@@ -811,3 +813,20 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Thoughts:** I really want to try more of snipcart.js it makes the payment part very easy. check it out here https://farm-fresh-store.herokuapp.com/ 
 
 #100DaysOfCode
+
+### Day 95: Auguts 06, 2020
+
+**Today's Progress**: E-Commerce App is finally live.
+
+**Thoughts:** I really want to try more of snipcart.js it makes the payment part very easy. check it out here https://farm-fresh-store.herokuapp.com/ 
+
+#100DaysOfCode
+
+### Day 95: Auguts 06, 2020
+
+**Today's Progress**: Heroku for Projects.
+
+**Thoughts:** I never it's this easy to bring our projects live using Heroku, can't wait to do more. 
+
+#100DaysOfCode
+
