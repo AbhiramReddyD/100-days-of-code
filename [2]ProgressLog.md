@@ -813,3 +813,21 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Thoughts:** I really want to try more of snipcart.js it makes the payment part very easy. check it out here https://farm-fresh-store.herokuapp.com/ 
 
 #100DaysOfCode
+
+## Done learning algo and ds from now on gonna work on projects/portfolio and competetive programming
+
+### Day 95: Auguts 06, 2020
+
+**Today's Progress**: Selenium Mini Project
+
+**Thoughts:** Experimenting with Selenium, login, collect links etc.
+
+#100DaysOfCode
+
+### Day 96: Auguts 07, 2020
+
+**Today's Progress**: Fake LinkedIn profile detector using selenium
+
+**Thoughts:** Done with the mini project, now further work on improving the accuracy of the results.
+
+#100DaysOfCode
