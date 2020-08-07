@@ -830,4 +830,6 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 **Thoughts:** Done with the mini project, now further work on improving the accuracy of the results.
 
+**Link to work:** [LinkedIn-Fake-Profile-Collector](https://github.com/AbhiramReddyD/LinkedIn-Fake-Profile-Collector)
+
 #100DaysOfCode
