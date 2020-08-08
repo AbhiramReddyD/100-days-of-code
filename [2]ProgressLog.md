@@ -833,3 +833,13 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Link to work:** [LinkedIn-Fake-Profile-Collector](https://github.com/AbhiramReddyD/LinkedIn-Fake-Profile-Collector)
 
 #100DaysOfCode
+
+### Day 97: Auguts 08, 2020
+
+**Today's Progress**: Blog Fronted
+
+**Thoughts:** Working on Frontend for my Blog, a few CSS tweaks makes WordPress much better.
+
+**Link to work:** [matrixread.com](https://matrixread.com/)
+
+#100DaysOfCode
