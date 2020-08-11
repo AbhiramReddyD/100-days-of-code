@@ -843,3 +843,20 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 **Link to work:** [matrixread.com](https://matrixread.com/)
 
 #100DaysOfCode
+
+### Day 98: Auguts 10, 2020
+
+**Today's Progress**: Pending and Incomplete projects
+
+**Thoughts:** Made a list and organzied projects before they are added to my portfolio.
+
+#100DaysOfCode
+
+### Day 99: Auguts 11, 2020
+
+**Today's Progress**: Beginning Competetive Coding
+
+**Thoughts:** Solved problems on vectors in C++ at HackerRank.
+
+#100DaysOfCode
+
