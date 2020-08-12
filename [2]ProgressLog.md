@@ -860,3 +860,11 @@ Took a break to launch my Blog [matrixread.com](https://matrixread.com/)
 
 #100DaysOfCode
 
+### Day 100: Auguts 12, 2020
+
+**Today's Progress**: Competetive Coding
+
+**Thoughts:** Solved introduction to array problems at LeetCode.
+
+#100DaysOfCode
+
