@@ -20,14 +20,18 @@ Achieved 5 Stars on HackerRank
 
 ### Objective 2 : Solve all Medium problems on HackerRank
 
+#30DaysofCompetetive 
 ### Day 03: August 21, 2020
 
 **Today's Progress**: Strings
 
 **Thoughts:** Solved problems under strings C++ at HackerRank
+#100DaysOfCode
 
+#30DaysofCompetetive 
 ### Day 04: August 22, 2020
 
 **Today's Progress**: Classes
 
 **Thoughts:** Solved problems under class C++ at HackerRank
+#100DaysOfCode
