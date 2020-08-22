@@ -28,10 +28,11 @@ Achieved 5 Stars on HackerRank
 **Thoughts:** Solved problems under strings C++ at HackerRank
 #100DaysOfCode
 
-#30DaysofCompetetive 
+
 ### Day 04: August 22, 2020
 
 **Today's Progress**: Classes
 
 **Thoughts:** Solved problems under class C++ at HackerRank
-#100DaysOfCode
+
+#30DaysofCompetetive #100DaysOfCode
