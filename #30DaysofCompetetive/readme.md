@@ -16,9 +16,7 @@
 
 **Thoughts:** Solved all easy problems under C++ at HackerRank
 
-Achieved 5 Stars on HackerRank
-
-### Objective 2 : Solve all Medium problems on HackerRank
+## Achieved 5 Stars on HackerRank
 
 #30DaysofCompetetive 
 ### Day 03: August 21, 2020
@@ -27,7 +25,6 @@ Achieved 5 Stars on HackerRank
 
 **Thoughts:** Solved problems under strings C++ at HackerRank
 #100DaysOfCode
-
 
 ### Day 04: August 22, 2020
 
