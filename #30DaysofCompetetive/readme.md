@@ -10,3 +10,5 @@
 ### Day 02: September 04, 2020
 ### Day 03: September 05, 2020
 ### Day 04: September 06, 2020
+### --RESTART--
+Alright change of plans, I'ma solve problems and even write a blog post whenever I learn a new method
