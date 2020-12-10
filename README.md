@@ -2,7 +2,7 @@
 	Consistency⏳ is the Key🔑 to Everything🏅
 </h2>
 
-### ✅I've Finished the #30DaysofCompetetive Coding Challenge 🥳
+### ✅I've Finished the #30DaysOfProblemSolving Challenge 🥳
 * Checkout my Progress Log : [Here](https://github.com/abhiramready/Code-LogBook/blob/master/Markdown/30DaysOfCode.md)
 
 ### ✅I've Finished the #100DaysOfCode Challenge 💯
