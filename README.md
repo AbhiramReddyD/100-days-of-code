@@ -3,7 +3,7 @@
 </h2>
 
 ### ✅I've Finished the #30DaysOfProblemSolving Challenge 🥳
-* Checkout my Progress Log : [Here](https://github.com/abhiramready/Code-LogBook/blob/master/Markdown/30DaysOfCode.md)
+* Checkout my Progress Log : [[Here](https://github.com/abhiramready/Code-LogBook/blob/master/Markdown/30DaysOfCode.md)]
 
 ### ✅I've Finished the #100DaysOfCode Challenge 💯
 * Checkout my Progress Log : Round 1 - [[063Days]](https://github.com/abhiramready/Consistency-Log/blob/master/%5B1%5DProgressLog.md)
